@@ -2,7 +2,7 @@
 
 AndroidCast is an Android app built using Kotlin and Jetpack Compose that allows you to easily cast online videos/images to your cast device.
 
-<img src="screenshot-1.png" width="250"> <img src="screenshot-2.png" width="250">
+<!-- <img src="screenshot-1.png" width="250"> <img src="screenshot-2.png" width="250"> -->
 
 ## Support
 
@@ -17,7 +17,7 @@ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please [open an issue](https://github.com/fast4x/RiCast/issues/new).
+Contributions are welcome! <!-- If you find a bug or have a feature request, please [open an issue](https://github.com/fast4x/RiCast/issues/new). -->
 
 If you would like to contribute code, please follow these steps:
 
